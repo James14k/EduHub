@@ -775,6 +775,7 @@ Antes de desplegar en producción:
 ## 📞 Contacto
 
 Para preguntas o soporte, contacta al equipo de desarrollo.
+hawkdurant.jed@gmail.com
 
 ---
 
